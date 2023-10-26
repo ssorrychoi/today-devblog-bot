@@ -72,9 +72,6 @@
         "HTTPS",
         "HTTP/3",
         "Intellij",
-        "Slack",
-        "UML",
-        "VR",
-        "Windows"
+        "Slack"
     ]
 }
