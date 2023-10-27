@@ -5,11 +5,11 @@ name: node.js CI
 
 on:
   push:
-    branches: [ master ]
+    # branches: [ master ]
     
-  schedule:
-    # 매일 아침 8시에 블로그 글 발송
-    - cron: "0 23 * * *"
+  # schedule:
+  #   # 매일 아침 8시에 블로그 글 발송
+  #   - cron: "0 23 * * *"
 
 jobs:
   build:
