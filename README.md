@@ -18,4 +18,6 @@
 
 
 # 레퍼런스
-- https://github.com/sarojaba/awesome-devblog
+- https://github.com/awesome-devblog/awesome-devblog
+
+
